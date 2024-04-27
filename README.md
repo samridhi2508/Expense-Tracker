@@ -1,1 +1,1 @@
-# Expense-Tracker
+The Expense Tracker project is a simple tool designed to help users manage and track their daily expenses efficiently. The application allows users to input their daily expenses along with a brief description and categorize them accordingly (e.g., food, transportation, entertainment). This makes it easier for users to manage their finances and understand where their money is going.
